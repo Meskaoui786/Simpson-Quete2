@@ -7,6 +7,15 @@
   pointer-events: none;
 }
 
+.btn {
+  justify-content: center;
+  margin-top: 20px;
+  
+}
+.header {
+  background-color: yellow;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
